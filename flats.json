@@ -2,52 +2,52 @@
   {
     "id": 1,
     "name": "Hotel Ibis",
-    "imageUrl": "img/ibis.png",
+    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
     "lng": 100.36365308327207
   },
   {
-    "id": 1,
+    "id": 2,
     "name": "Hotel Ibis",
-    "imageUrl": "img/ibis.png",
+    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpgg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
     "lng": 100.36365308327207
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "Hotel Ibis",
-    "imageUrl": "img/ibis.png",
+    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
     "lng": 100.36365308327207
   },
   {
-    "id": 1,
+    "id": 4,
     "name": "Hotel Ibis",
-    "imageUrl": "img/ibis.png",
+    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
     "lng": 100.36365308327207
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "Hotel Ibis",
-    "imageUrl": "img/ibis.png",
+    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
     "lng": 100.36365308327207
   },
   {
-    "id": 1,
+    "id": 6,
     "name": "Hotel Ibis",
-    "imageUrl": "img/ibis.png",
+    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
