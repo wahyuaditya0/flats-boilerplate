@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Hotel Ibis",
-    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Hotel Ibis",
-    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpgg",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Hotel Ibis",
-    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Hotel Ibis",
-    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Hotel Ibis",
-    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
     "price": 350000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
@@ -47,8 +47,8 @@
   {
     "id": 6,
     "name": "Hotel Ibis",
-    "imageUrl": "https://github.com/wahyuaditya0/flats-boilerplate/blob/main/images/ibis.jpg",
-    "price": 350000,
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
+    "price": 350.000,
     "priceCurrency": "IDR",
     "lat": -0.9293096943260878,
     "lng": 100.36365308327207
