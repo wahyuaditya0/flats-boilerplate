@@ -52,5 +52,59 @@
     "priceCurrency": "IDR",
     "lat":   -0.9436279689711824,
     "lng": 100.36195568368974
+  },
+  {
+    "id": 7,
+    "name": "Hotel Amaris",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/amaris.jpg",
+    "price": 345207,
+    "priceCurrency": "IDR",
+    "lat":   -0.9432223046495419,
+    "lng": 100.36259717333508
+  },
+  {
+    "id": 8,
+    "name": "Hotel Whiz Prime",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/whiz.jpg",
+    "price": 320000,
+    "priceCurrency": "IDR",
+    "lat":    -0.914907078708355,
+    "lng": 100.35973636881093
+  },
+  {
+    "id": 9,
+    "name": "Grand Ina Padang",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ina.jpg",
+    "price": 407402,
+    "priceCurrency": "IDR",
+    "lat":   -0.9565687888257739,
+    "lng": 100.35790664634773
+  },
+  {
+    "id": 9,
+    "name": "The Axana Hotel",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/axana.jpg",
+    "price": 403552,
+    "priceCurrency": "IDR",
+    "lat":    -0.9543312866684494,
+    "lng": 100.35971110710301
+  },
+  {
+    "id": 10,
+    "name": "HW Hotel",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/hw.jpg",
+    "price": 435000,
+    "priceCurrency": "IDR",
+    "lat":    -0.958357847972183,
+    "lng": 100.3560775040317
+  },
+  {
+    "id": 11,
+    "name": "d'Ox Ville Hotel",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/d'Ox%20Ville%20Hotel.jpg",
+    "price": 435000,
+    "priceCurrency": "IDR",
+    "lat":   -0.9612649277253739,
+    "lng": 100.35887937482113
   }
 ]
