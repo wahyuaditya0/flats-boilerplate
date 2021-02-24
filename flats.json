@@ -10,47 +10,47 @@
   },
   {
     "id": 2,
-    "name": "Hotel Ibis",
-    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
-    "price": 350000,
+    "name": "Hotel Mercure",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/mercure.jpg",
+    "price": 657999,
     "priceCurrency": "IDR",
-    "lat": -0.9293096943260878,
-    "lng": 100.36365308327207
+    "lat": -0.9355487230794096,
+    "lng": 100.35277468368973 
   },
   {
     "id": 3,
-    "name": "Hotel Ibis",
-    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
-    "price": 350000,
+    "name": "Hotel Pangeran",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/pangeran.jpg",
+    "price": 674553,
     "priceCurrency": "IDR",
-    "lat": -0.9293096943260878,
-    "lng": 100.36365308327207
+    "lat": -0.922124466524354,
+    "lng": 100.35048580599357
   },
   {
     "id": 4,
-    "name": "Hotel Ibis",
-    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
-    "price": 350000,
+    "name": "Premier Basko Hotel",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/basko.jpg",
+    "price": 500000,
     "priceCurrency": "IDR",
-    "lat": -0.9293096943260878,
-    "lng": 100.36365308327207
+    "lat": -0.9014343304193564,
+    "lng": 100.35078726834796
   },
   {
     "id": 5,
-    "name": "Hotel Ibis",
-    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
-    "price": 350000,
+    "name": "Hotel Grand Zuri",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/grand.jpg",
+    "price": 599386,
     "priceCurrency": "IDR",
-    "lat": -0.9293096943260878,
-    "lng": 100.36365308327207
+    "lat": -0.9545387160436027,
+    "lng": 100.36469060827186
   },
   {
     "id": 6,
-    "name": "Hotel Ibis",
-    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/ibis.jpg",
-    "price": 350.000,
+    "name": "Daima Hotel",
+    "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/daima.jpg",
+    "price": 387000,
     "priceCurrency": "IDR",
-    "lat": -0.9293096943260878,
-    "lng": 100.36365308327207
+    "lat":   -0.9436279689711824,
+    "lng": 100.36195568368974
   }
 ]
