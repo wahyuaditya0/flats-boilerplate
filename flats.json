@@ -13,7 +13,7 @@
     "name": "Hotel Mercure",
     "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/mercure.jpg",
     "price": "657.999",
-    "priceCurrency": "IDR",
+    "priceCurrency": "Rp. ",
     "lat": -0.9355487230794096,
     "lng": 100.35277468368973 
   },
@@ -102,8 +102,8 @@
     "id": 11,
     "name": "d'Ox Ville Hotel",
     "imageUrl": "https://raw.githubusercontent.com/wahyuaditya0/flats-boilerplate/main/images/dOx.jpg",
-    "price": 435000,
-    "priceCurrency": "IDR",
+    "price": "435.000",
+    "priceCurrency": "Rp. ",
     "lat":   -0.9612649277253739,
     "lng": 100.35887937482113
   }
